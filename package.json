@@ -1,7 +1,7 @@
 {
-  "name": "Queen-MD",
+  "name": "Praker-T4A",
   "version": "1.0.0",
-  "description": "Multi device wa bot.",
+  "description": "T5A device wa bot.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
