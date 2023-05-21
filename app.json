@@ -1,6 +1,6 @@
 {
-        "name": "Queen-MD",
-	"description": "Queen-MD WhatsApp Bot Using Lib Baileys",
+        "name": "Taha-T4A",
+	"description": "Taha-T4a WhatsApp Bot Using Lib Baileys",
 	"repository": "https://github.com/DarkWinzo/Queen-MD",
 	"logo": "https://i.ibb.co/jZkzpw2/Queen.jpg",
 	"keywords": ["multi-device","Queen-MD","DarkWinzo"],
@@ -9,7 +9,7 @@
   "plan": "heroku-postgresql"
     }],
     "env": {
-      "HEROKU_APP_NAME": {
+      "T4A_APP_Taha": {
         "description": "Heroku app name, same as above entered",
         "required": true
       },
@@ -18,28 +18,28 @@
         "required": true
       },         
                 "SESSION_ID": {
-			"description": "SESSION ID",
+			"description": "مࢪحبا ڪيف اسعدڪ ڪلبي🫶",
 			"required": true
-			},
-		"OWNER_NAME": {
-			"description": "Add the owner name here and if you want to use the default name then just leave it",
+		},   
+	        "Taha Parker": {
+			"description": "Taha_Parker offc",
 			"required": false,
-			"value": "DarkWinzo"
+			"value": "DarkT5A"
 		},
 		"OWNER_NUMBER": {
-			"description": "Add the owner number here",
+			"description": "+212717067815",
 			"required": true,
-			"value": ""
+			"value": "hbibi"
 		},
 		"PACK_NAME": {
-			"description": "Add pack name here",
+			"description": "ࢪاحتڪ اقلبي🫶",
 			"required": true,
-			"value": "Queen-MD"
+			"value": "T5A-Taha"
 		},
 		"STICKER_AUTHOR_NAME": {
-			"description": "Add sticker pack author name here",
+			"description": "خاطࢪڪ اقلبي🫶",
 			"required": true,
-			"value": "DarkWinzo"
+			"value": "T5A_Taha"
 		}
 	},
 	"buildpacks": [
